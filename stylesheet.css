@@ -142,6 +142,10 @@ header {
   color: #5f5d60;
 }
 
+.heading h1 {
+  color: black;
+}
+
 .heading h2 {
   font-weight: normal;
   color: rgb(0, 0, 200);
