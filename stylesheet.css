@@ -26,8 +26,7 @@ a {
   background-image: url(https://source.wustl.edu/wp-content/uploads/2018/02/Graphene_760.jpg);
   background-size: cover;
   color: white;
-  text-align: center
-  background-attachment: fixed;
+  text-align: center;
 }
 
 .top-wrapper h1 {
